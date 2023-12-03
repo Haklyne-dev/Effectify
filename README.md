@@ -1,7 +1,7 @@
-# Effectify [![GitHub release (with filter)](https://img.shields.io/github/v/release/Jzmoore27/Effectify)](https://github.com/Jzmoore27/Effectify/releases/latest)
+# Effectify [![GitHub release (with filter)](https://img.shields.io/github/v/release/HMC-Modding/Effectify)](https://github.com/HMC-Modding/Effectify/releases/latest)
 
-### [Download Latest](https://github.com/Jzmoore27/Effectify/releases/latest)
-### [All Versions](https://github.com/Jzmoore27/Effectify/releases)
+### [Download Latest](https://github.com/HMC-Modding/Effectify/releases/latest)
+### [All Versions](https://github.com/HMC-Modding/Effectify/releases)
 
 ### Contents
  * **[About Effectify](#about-effectify)**
