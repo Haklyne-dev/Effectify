@@ -11,7 +11,7 @@
 
 ## About Effectify
 Effectify is a Minecraft datapack that applies random effects to people from an allowed list.<br>
-This datapack was created by Hardcorishmc for the Legends SMP.<br>
+This datapack was created by Haklyne for the Legends SMP.<br>
 It includes 19 different effects, random selection, presets, and more to provide a polished experience.<br>
 
 ## Installation Guide
